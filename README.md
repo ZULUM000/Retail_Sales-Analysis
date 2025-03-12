@@ -112,7 +112,7 @@ The Power BI dashboard provides key insights into business performance, includin
 
 ---
 ## **👨‍💻 Contributors**
-🚀 Developed by **[Your Name]** – Data Analyst
+🚀 Developed by **Chukwuebuka Enoch** – Data Analyst
 
-📧 Contact: your.email@example.com
+📧 Contact: enochjeremiah6@gmail.com
 
